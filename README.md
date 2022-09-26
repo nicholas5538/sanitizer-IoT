@@ -25,6 +25,11 @@ The hand sanitizer is made up of the followings components:
 6. [Push Button Switch](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=589 "Push Button")
 7. [Water Sensor - Small](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2425 "Water Sensor")
 
+#### Circuit diagram ####
+<p align="center">
+    <img src="/assets/circuit.png" width="50%" height="400"/>
+</p>
+
 Tech used:
 * Programming language
   * **Python**
@@ -57,19 +62,19 @@ Data visualisation is performed with **matplotlib and seaborn** libraries wherea
 #### Data visualisation diagrams ###
 - Water level trend and Dispensing Count
   <p align="left">
-    <img src="/assets/datavisualisation.png" width="49%" height="400"/>
+    <img src="/assets/datavisualisation.png" width="50%" height="400"/>
   </p>
 - Regression plot of Water Level against Dispensing Count
   <p align="left">
-    <img src="/assets/regressionPlot.png" width="49%" height="400"/>
+    <img src="/assets/regressionPlot.png" width="50%" height="400"/>
   </p>
 
 #### Machine learning diagrams
 - Test machine learning model against training/simulated data
   <p align="left">
-    <img src="/assets/regressionMachine.png" width="49%" height="400"/>
+    <img src="/assets/regressionMachine.png" width="50%" height="400"/>
   </p>
 - Comparison between true and predicted data -> Dispensed count
   <p align="left">
-    <img src="/assets/actualPredicted.png" width="49%" height="400"/>
+    <img src="/assets/actualPredicted.png" width="50%" height="400"/>
   </p>
